@@ -1,5 +1,5 @@
 package seminar.seminar2.g1050;
-
+//adaugare comentariu 
 public enum Domeniu {
     ISTORIE(1), MATEMATICA(2), IT(3), GEOGRAFIE(4);
 
